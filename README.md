@@ -4,8 +4,8 @@ Sistem Informasi Manajemen Perpustakaan Sekolah — membantu admin mengelola dat
  
 🔗 Website: https://perpustakaansekolah.site.je/
  
- Wireframe https://github.com/liyanaafiah431-byte/UKK-PERPUSTAKAAN/blob/main/flowchart.jpeg
-
+ Wireframe https://raw.githubusercontent.com/liyanaafiah431-byte/UKK-PERPUSTAKAAN/refs/heads/main/flowchart.jpeg
+ 
  📚 Perpustakaan Sekolah
  
 Sistem Informasi Manajemen Perpustakaan Sekolah — membantu admin mengelola data buku, anggota, peminjaman, dan pengembalian secara mudah & terorganisir 
